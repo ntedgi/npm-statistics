@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "1 0 * * *"
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -13,8 +12,7 @@ jobs:
 
       - uses: actions/setup-node@v1
         with:
-          node-version: "13.x"
-      # Maybe switch to https://github.com/bahmutov/npm-install
+          node-version: "22.x"
       - name: Cache node modules
         uses: actions/cache@v1
         with:
