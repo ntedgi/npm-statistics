@@ -4,38 +4,38 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "1 0 * * *"
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install Node 20
-      - uses: actions/checkout@master
-      - uses: actions/setup-node@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      - name: Install Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: "22.x"
-      - name: Cache node modules
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-      - name: Install
-        run: |
-          npm ci
-      - name: Collect
-        run: |
-          npm start
-      - name: Add
+          node-version: "20.x"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Collect data
+        run: npm start
+
+      - name: Configure Git
         run: |
           git config --global user.email "naor.tedgi@gmail.com"
           git config --global user.name "Naor Tedgi (Abu Emma)"
-          git status
+
+      - name: Commit changes
+        run: |
           git add .
-          git commit -m ":package: Update Downloads"
-      - name: Push
+          git commit -m ":package: Update Downloads" || echo "No changes to commit"
+
+      - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.RUNNER_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
