@@ -137,7 +137,6 @@ function generateMarkdownTable(tableRows, sum) {
       numberWithCommas(count)
     ]
   })
-  // '@serverless', '@netlify', 'netlify-', '@middy'
 
   badgeStats.message = `${numberWithCommas(stats.sum)} Downloads`
 
