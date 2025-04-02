@@ -1,10 +1,10 @@
-# npm-statistics
+- **Explore My Work:** Check out all my projects at [naortedgi.com](http://naortedgi.com/).
 
+- **Writing & Insights:** I regularly share insights on Node.js, V8, and infrastructure topics. Read my tech talks at [My Tech Talks Repository](https://github.com/ntedgi/my-tech-talks).
+
+- **Open source projects**
+  
 ![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fntedgi%2Fnpm-statistics%2Fmaster%2Fstats.json)
-
-NPM Download Statistics for DavidWells Open Source Projects. Updated Daily.
-
-## Downloads
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
@@ -21,36 +21,10 @@ NPM Download Statistics for DavidWells Open Source Projects. Updated Daily.
 | **Total**                                                                                            | **372,981** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-### Wanna use `npm-statistics`?
+- **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
 
-1. `Fork` this repository.
-2. Add your npm username/author or list of packages in `package.json` as `npm-stats` key.
-   for author
-
-```js
-{
-  "npm-stats": "DavidWells"
-}
-```
-
-or for packages
-
-```js
-{
-  "npm-stats": [
-    "markdown-magic",
-    "analytics"
-  ]
-}
-```
-
-3. Run `npm i` and then `npm start` to generate the Downloads.
-4. The repo comes with a daily CRON job that updates the Downloads.
-5. For updating the badge replace `ntedgi` in badge endpoint to your github username/orgname.
-   https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F`username`%2Fnpm-statistics%2Fmaster%2Fstats.json
-6. Enable `GitHub Actions` for your forked repo, as it is enabled by default for forks.
-
-## Ref
-
-- [npmtotal](https://github.com/maddhruv/npmtotal) - Find you npm download statistics
-- [Props to ClearTax for this awesome action](https://github.com/ClearTax/npm-statistics)
+<p align="left">
+<a href="https://stackoverflow.com/users/4267015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4267015" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naor-tedgi-11314284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naor-tedgi-11314284" height="30" width="40" /></a>
+<a href="https://twitter.com/naor_tedgi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naor_tedgi" height="30" width="40" /></a>
+</p>
