@@ -29,8 +29,8 @@ jobs:
           npm start
       - name: Add
         run: |
-          git config --global user.email "davidtronfivethousand@gmail.com"
-          git config --global user.name "David Wells Bot"
+          git config --global user.email "naor.tedgi@gmail.com"
+          git config --global user.name "Naor Tedgi (Abu Emma)"
           git status
           git add .
           git commit -m ":package: Update Downloads"
