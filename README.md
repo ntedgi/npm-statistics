@@ -8,11 +8,17 @@
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                             | Downloads                                                                                                                                                                                                                         |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Total**                                        | **feign.FeignException$ServiceUnavailable: [503 Service Unavailable] during [GET] to [https://registry.npmjs.org/-/v1/search?size=250&text=maintainer%3Anaort] [SearchClient#search(String)]: [{"error":"Service Unavailable"}]** |
-| [message](https://www.npmjs.com/package/message) | feign.FeignException$ServiceUnavailable: [503 Service Unavailable] during [GET] to [https://registry.npmjs.org/-/v1/search?size=250&text=maintainer%3Anaort] [SearchClient#search(String)]: [{"error":"Service Unavailable"}]     |
-| **Total**                                        | **feign.FeignException$ServiceUnavailable: [503 Service Unavailable] during [GET] to [https://registry.npmjs.org/-/v1/search?size=250&text=maintainer%3Anaort] [SearchClient#search(String)]: [{"error":"Service Unavailable"}]** |
+| Name                                                                                                 | Downloads   |
+| ---------------------------------------------------------------------------------------------------- | ----------- |
+| **Total**                                                                                            | **417,085** |
+| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 336,436     |
+| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 72,833      |
+| [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 5,082       |
+| [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 1,401       |
+| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,191       |
+| [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 78          |
+| [mocha9-parallel-tests](https://www.npmjs.com/package/mocha9-parallel-tests)                         | 64          |
+| **Total**                                                                                            | **417,085** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 - **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
