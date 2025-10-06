@@ -10,15 +10,15 @@
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads   |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
-| **Total**                                                                                            | **484,385** |
-| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 398,829     |
-| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 72,696      |
+| **Total**                                                                                            | **484,813** |
+| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 399,263     |
+| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 72,690      |
 | [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 10,408      |
 | [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 1,204       |
 | [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,117       |
 | [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 68          |
 | [mocha9-parallel-tests](https://www.npmjs.com/package/mocha9-parallel-tests)                         | 63          |
-| **Total**                                                                                            | **484,385** |
+| **Total**                                                                                            | **484,813** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 - **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
