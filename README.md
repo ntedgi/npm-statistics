@@ -10,15 +10,15 @@
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads   |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
-| **Total**                                                                                            | **498,456** |
-| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 423,852     |
-| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 59,062      |
-| [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 12,523      |
-| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,440       |
-| [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 1,411       |
+| **Total**                                                                                            | **498,623** |
+| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 424,524     |
+| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 58,525      |
+| [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 12,558      |
+| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,439       |
+| [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 1,409       |
 | [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 101         |
 | [mocha9-parallel-tests](https://www.npmjs.com/package/mocha9-parallel-tests)                         | 67          |
-| **Total**                                                                                            | **498,456** |
+| **Total**                                                                                            | **498,623** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 - **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
