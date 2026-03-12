@@ -10,15 +10,15 @@
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads   |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
-| **Total**                                                                                            | **547,886** |
-| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 504,380     |
-| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 25,849      |
+| **Total**                                                                                            | **545,416** |
+| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 502,347     |
+| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 25,414      |
 | [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 14,741      |
-| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,393       |
+| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,391       |
 | [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 1,372       |
 | [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 94          |
 | [mocha9-parallel-tests](https://www.npmjs.com/package/mocha9-parallel-tests)                         | 57          |
-| **Total**                                                                                            | **547,886** |
+| **Total**                                                                                            | **545,416** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 - **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
