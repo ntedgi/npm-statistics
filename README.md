@@ -8,17 +8,13 @@
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                                                                 | Downloads   |
-| ---------------------------------------------------------------------------------------------------- | ----------- |
-| **Total**                                                                                            | **545,693** |
-| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 505,530     |
-| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 22,475      |
-| [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 14,767      |
-| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,418       |
-| [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 1,349       |
-| [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 100         |
-| [mocha9-parallel-tests](https://www.npmjs.com/package/mocha9-parallel-tests)                         | 54          |
-| **Total**                                                                                            | **545,693** |
+| Name                                                 | Downloads                                                                    |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Total**                                            | **Internal Server Error/api/download-counts02,026-03-22T00:30:21.538+00:00** |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                        |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2,026-03-22T00:30:21.538+00:00                                               |
+| [path](https://www.npmjs.com/package/path)           | /api/download-counts                                                         |
+| **Total**                                            | **Internal Server Error/api/download-counts02,026-03-22T00:30:21.538+00:00** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 - **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
