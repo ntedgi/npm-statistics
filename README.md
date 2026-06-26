@@ -10,15 +10,15 @@
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads   |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
-| **Total**                                                                                            | **587,726** |
-| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 570,013     |
-| [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 9,672       |
-| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 4,683       |
-| [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 1,675       |
-| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,370       |
+| **Total**                                                                                            | **587,998** |
+| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 570,667     |
+| [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 9,592       |
+| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 4,357       |
+| [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 1,664       |
+| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,407       |
 | [mocha9-parallel-tests](https://www.npmjs.com/package/mocha9-parallel-tests)                         | 180         |
-| [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 133         |
-| **Total**                                                                                            | **587,726** |
+| [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 131         |
+| **Total**                                                                                            | **587,998** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 - **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
