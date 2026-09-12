@@ -10,15 +10,15 @@
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                                                 | Downloads   |
 | ---------------------------------------------------------------------------------------------------- | ----------- |
-| **Total**                                                                                            | **619,785** |
-| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 608,030     |
-| [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 5,483       |
-| [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 2,080       |
-| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 1,988       |
-| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,867       |
-| [mocha9-parallel-tests](https://www.npmjs.com/package/mocha9-parallel-tests)                         | 191         |
-| [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 146         |
-| **Total**                                                                                            | **619,785** |
+| **Total**                                                                                            | **623,222** |
+| [express-body-parser-error-handler](https://www.npmjs.com/package/express-body-parser-error-handler) | 611,520     |
+| [isvalid-legacy](https://www.npmjs.com/package/isvalid-legacy)                                       | 5,418       |
+| [@ntlib/status-monitor-nestjs](https://www.npmjs.com/package/@ntlib/status-monitor-nestjs)           | 2,097       |
+| [node-valkey](https://www.npmjs.com/package/node-valkey)                                             | 1,983       |
+| [node-efficientnet](https://www.npmjs.com/package/node-efficientnet)                                 | 1,865       |
+| [mocha9-parallel-tests](https://www.npmjs.com/package/mocha9-parallel-tests)                         | 192         |
+| [nest-http-client](https://www.npmjs.com/package/nest-http-client)                                   | 147         |
+| **Total**                                                                                            | **623,222** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 - **Contact Me:** Reach out via email at **naor.tedgi@gmail.com**.
